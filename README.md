@@ -13,4 +13,9 @@ The purpose of this repository is to learn the basic workflow of a Github projec
 7. Pushed local repository to Github
 8. Assigned classmate as a collaborator
 9. Created pull request
-10. 
+10. Pull request approved
+11. Merge branch to main
+
+12. ## Collaborators
+13. 1. Irshad Hussain
+    2. Damien Vieira
